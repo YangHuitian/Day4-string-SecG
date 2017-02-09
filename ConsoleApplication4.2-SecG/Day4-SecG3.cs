@@ -9,8 +9,7 @@ namespace ConsoleApplication4._2_SecG
     class Day4_SecG3
     {
         
-            }
-        }
     }
 }
+  
 
