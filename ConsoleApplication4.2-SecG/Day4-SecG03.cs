@@ -14,8 +14,8 @@ namespace ConsoleApplication4._2_SecG
 
             for (int i = 0; i <= u.Length - 1; i++)
             {
-                //if (u.Length == 0) continue;
-                Char firstc = Char.ToUpper((u[i])[0]);// not learnt
+                //if (u.Length == 0) continue;c
+                Char firstc = Char.ToUpper((u[i])[0]);// not learnt : //Char firstc = Char.ToUpper(u[i])[0]),not change the rest
                 string rest = "";
 
                 if (u.Length > 1)
